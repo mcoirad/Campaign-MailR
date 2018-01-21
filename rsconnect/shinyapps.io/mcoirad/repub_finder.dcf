@@ -1,0 +1,10 @@
+name: repub_finder
+title:
+username:
+account: mcoirad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 251997
+bundleId: 1152783
+url: https://mcoirad.shinyapps.io/repub_finder/
+when: 1514416574.91467
